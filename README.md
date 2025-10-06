@@ -8,5 +8,7 @@
 ![bandicam 2025-10-06 13-56-26-806](https://github.com/user-attachments/assets/6221711d-e831-4d7d-b9b4-ef898d0c8314)
 
 ==========================================================================================================================================================================
-إنشاء ملف وإضافة الصور
+## إنشاء ملف وإضافة الصور
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3333480f-21a5-4e61-b007-0a3f7ef38c7c" />
+## وحل الواجب الأول
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8edbd7ff-d57a-4b12-87be-2745f06b456b" />
