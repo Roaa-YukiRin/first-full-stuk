@@ -17,3 +17,7 @@
 
 ## حل الواجب 2
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f39b7b6-3cbe-42d9-ac15-52d88009b82d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd0f74e2-c34a-4d42-90be-c0a8fcf232bf" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d100f7b-2415-4e1f-b376-4424d20d028e" />
