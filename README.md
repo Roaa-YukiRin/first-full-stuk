@@ -15,3 +15,5 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e15728d6-d041-4b85-b81b-a4d44ae74805" />
 
+## حل الواجب 2
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f39b7b6-3cbe-42d9-ac15-52d88009b82d" />
