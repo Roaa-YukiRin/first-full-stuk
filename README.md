@@ -12,3 +12,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3333480f-21a5-4e61-b007-0a3f7ef38c7c" />
 ## وحل الواجب الأول
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8edbd7ff-d57a-4b12-87be-2745f06b456b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e15728d6-d041-4b85-b81b-a4d44ae74805" />
+
