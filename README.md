@@ -24,3 +24,15 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5d34f09-0a82-4bca-90be-9d06f9b4a106" />
 
+## الحل باليوتيوب
+https://youtu.be/P3_wtkv0yxY
+
+https://youtu.be/_20jnIYbFX8
+
+https://youtu.be/Z4fWCwcTAZM
+
+https://youtu.be/iKMX9MSKZH0
+
+https://youtu.be/WBfqoo3bfUg
+
+https://youtu.be/d7El-O35hKQ
